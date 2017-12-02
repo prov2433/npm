@@ -1,3 +1,4 @@
+var stuff = "yes"
 'use strict'
 var test = require('tap').test
 var common = require('../common-tap.js')
